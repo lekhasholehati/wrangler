@@ -53,7 +53,7 @@
 												<th>NO</th>
 												<th>KODE ORDER</th>
 												<th>DATE</th>
-												<th>STATUS</th>
+												<th>STATUS/NO RESI</th>
 												<th>TOTAL</th>
 												<th></th>
 											</tr>
